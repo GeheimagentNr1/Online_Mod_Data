@@ -39,10 +39,7 @@
 		"comment": "Because she always supports me",
 		"items": {
 			"vanilla": {
-				"item": ""
-			},
-			"modded": {
-				"item": ""
+				"item": "minecraft:blue_orchid"
 			}
 		}
 	}
