@@ -1,0 +1,49 @@
+[
+	{
+		"name": "Dev",
+		"comment": "Test purposes",
+		"items": {
+			"vanilla": {
+				"item": "minecraft:torch"
+			},
+			"modded": {
+				"item": "manyideas_house:block_tile",
+				"nbt": "{\"dye\":{\"color\":\"blue\"}}"
+			}
+		}
+	},
+	{
+		"name": "GeheimagentNr1",
+		"comment": "It's me...",
+		"items": {
+			"vanilla": {
+				"item": "minecraft:torch"
+			}
+		}
+	},
+	{
+		"name": "Muse31",
+		"comment": "Because she makes textures, models and logos for me",
+		"items": {
+			"vanilla": {
+				"item": "minecraft:birch_planks"
+			},
+			"modded": {
+				"item": "manyideas_house:block_tile",
+				"nbt": "{\"dye\":{\"color\":\"blue\"}}"
+			}
+		}
+	},
+	{
+		"name": "Honichmelone",
+		"comment": "Because she always supports me",
+		"items": {
+			"vanilla": {
+				"item": ""
+			},
+			"modded": {
+				"item": ""
+			}
+		}
+	}
+]
