@@ -26,11 +26,7 @@
 		"comment": "Because she makes textures, models and logos for me",
 		"items": {
 			"vanilla": {
-				"item": "minecraft:birch_planks"
-			},
-			"modded": {
-				"item": "manyideas_house:block_tile",
-				"nbt": "{\"dye\":{\"color\":\"blue\"}}"
+				"item": "minecraft:emerald"
 			}
 		}
 	},
