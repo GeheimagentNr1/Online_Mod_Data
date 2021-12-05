@@ -5,10 +5,6 @@
 		"items": {
 			"vanilla": {
 				"item": "minecraft:torch"
-			},
-			"modded": {
-				"item": "manyideas_house:block_tile",
-				"nbt": "{\"dye\":{\"color\":\"blue\"}}"
 			}
 		}
 	},
