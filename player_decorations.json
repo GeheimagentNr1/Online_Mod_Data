@@ -34,5 +34,14 @@
 				"item": "minecraft:blue_orchid"
 			}
 		}
+	},
+	{
+		"name": "riastarchild",
+		"comment": "ManyIdeas Tester",
+		"items": {
+			"vanilla": {
+				"item": "minecraft:nether_star"
+			}
+		}
 	}
 ]
