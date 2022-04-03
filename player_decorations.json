@@ -43,5 +43,14 @@
 				"item": "minecraft:nether_star"
 			}
 		}
+	},
+	{
+		"name": "MotiveLP",
+		"comment": "ManyIdeas Tester",
+		"items": {
+			"vanilla": {
+				"item": "minecraft:totem_of_undying"
+			}
+		}
 	}
 ]
